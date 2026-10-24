@@ -73,3 +73,7 @@ MIT License — see [LICENSE](LICENSE).
 - **Nebula mod**: [Dolly1016](https://github.com/Dolly1016/Nebula) / Nebula team
 - **BepInEx**: BepInEx contributors (x86 IL2CPP build 6.0.0-be.783)
 - **Doorstop**: NeighTools / Doorstop team
+
+---
+
+32 位闪退/SSL 报错以外的 bug 请直接去 [Dolly1016/Nebula](https://github.com/Dolly1016/Nebula)，那边才是模组本体。
