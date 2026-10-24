@@ -2,6 +2,8 @@
 
 **Nebula on the Ship**（星云舰）Among Us 模组的解压即玩整合包，专治 32 位游戏装模组没反应的问题。
 
+> 🙈 随缘维护：能启动就不动，有问题提 Issue 但我不一定修。
+
 ## ❓ 为什么需要这个
 
 Nebula 官方发布包的原生层是 **x64**（winhttp.dll、CoreCLR、dobby.dll），而 Among Us 是 **32 位 IL2CPP** 游戏 —— 直接解压进去，游戏静默闪退/无响应。
