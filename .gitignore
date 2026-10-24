@@ -1,0 +1,16 @@
+﻿# Package zips (download separately)
+packages/*.zip
+
+# Temporary extraction
+_NebulaInjector_*/
+
+# Backup manifests (generated at install time)
+**/_NebulaInjectorBackup/
+
+# Logs
+*.log
+NebulaLog*.txt
+
+# OS
+Thumbs.db
+.DS_Store
